@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PracticeCode.iml" filepath="$PROJECT_DIR$/PracticeCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afterclass/afterclass.iml" filepath="$PROJECT_DIR$/afterclass/afterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_004/day_004.iml" filepath="$PROJECT_DIR$/day_004/day_004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_005/day_005.iml" filepath="$PROJECT_DIR$/day_005/day_005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_006/day_006.iml" filepath="$PROJECT_DIR$/day_006/day_006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_007/day_007.iml" filepath="$PROJECT_DIR$/day_007/day_007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_008/day_008.iml" filepath="$PROJECT_DIR$/day_008/day_008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_009/day_009.iml" filepath="$PROJECT_DIR$/day_009/day_009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_010/day_010.iml" filepath="$PROJECT_DIR$/day_010/day_010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day003/initdemo01/initdemo01.iml" filepath="$PROJECT_DIR$/day003/initdemo01/initdemo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random_practice/random_practice.iml" filepath="$PROJECT_DIR$/random_practice/random_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day003/simple_algr/simple_algr.iml" filepath="$PROJECT_DIR$/day003/simple_algr/simple_algr.iml" />
+    </modules>
+  </component>
+</project>
