@@ -6,6 +6,6 @@ public class Test {
         System.out.println(唐九夏.toString());
         System.out.println(唐九夏.getClass());
 
-//        System.out.println(唐九夏.getClass() ==  唐九夏.hashCode());
+//        System.out.println(唐九夏.getClass() instanceof Person);
     }
 }
